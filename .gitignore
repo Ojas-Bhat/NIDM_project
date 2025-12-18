@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+env/
+myenv/
+
+.streamlit/
+uploads/
+eval_outputs/
+
+.vscode/
+.DS_Store
+Thumbs.db
