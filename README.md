@@ -1,4 +1,4 @@
-# NIDM Knowledge Hub – Final Capstone
+#NIDM Knowledge Hub – Final Capstone
 
 ## Overview
 A disaster management knowledge hub developed as a final capstone project
